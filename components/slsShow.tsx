@@ -1,5 +1,5 @@
 import { makeFolder, useTweaks } from "use-tweaks";
-import { DreawSLs } from "https://deno.land/x/sls@v1.3.2/mod.ts";
+import { DreawSLs } from "sls";
 export default function SlsShow() {
   const Tweeks = useTweaks("sls settings", {
     frame: { value: 100, min: 1, max: 500, step: 1 },

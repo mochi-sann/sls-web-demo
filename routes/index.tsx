@@ -16,8 +16,7 @@ export default function Index() {
       }}
     >
       <Head>
-        <title>Aleph.js</title>
-        <meta name="description" content="The Fullstack Framework in Deno." />
+        <title>sls on web demo</title>
       </Head>
       <SlsShow />
     </div>
