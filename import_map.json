@@ -14,7 +14,7 @@
     "react-dom/": "https://esm.sh/react-dom@18.2.0/",
     "tweakpane": "https://esm.sh/v87/tweakpane@3.1.0/es2022/tweakpane.js",
     "use-tweaks": "https://esm.sh/use-tweaks@0.3.1",
-    "sls": "https://deno.land/x/sls@v1.3.2/mod.ts"
+    "sls": "https://deno.land/x/sls@v1.4.1/mod.ts"
   },
   "scopes": {}
 }
